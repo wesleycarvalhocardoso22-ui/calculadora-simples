@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #eef2f7;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.caixa {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 320px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
